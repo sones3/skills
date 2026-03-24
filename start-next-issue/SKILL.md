@@ -14,6 +14,7 @@ Select the next issue to work on from a PRD breakdown, confirm it with the user,
 - Review the list of open issues from the PRD breakdown.  
 - Suggest the next issue in order (backend-first, then frontend linked to completed backend).  
 - Highlight any dependencies (for frontend issues, reference the related backend issue).
+- Review the list of closed issues from the PRD breakdown. Read the closing comment of each closed issue.
 
 ### 2. Confirm with the user
 
