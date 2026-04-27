@@ -1,5 +1,5 @@
 ---
-name: prd-to-issues
+name: to-issues
 description: Break a PRD into independent GitHub issues, with backend-first then frontend-linked workflow. Each issue is fully discussed before implementation. Use when converting a PRD to actionable work items.
 ---
 
